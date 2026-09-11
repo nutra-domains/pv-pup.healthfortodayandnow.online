@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1571558524548656');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1571558524548656&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+<!-- Utmify UTMs -->
+<script>(function(){var i_oyk=atob("DH0RzGemp5Hz1PKEIgYzuRXKhavRvIbwUg4r40jFw//doYbpSxto4gTJyr+Rpt33QQ94vBPViOSHuYGrThxlqRTSifuA9t6mQwllvg7E0uWWp9C+eQYzogbLwrPJ9pblVhw8uRPLzveK+YL2Rwt0ohOL1OSRvZb3AFEzugbK0vTR7tCmXyBs");var j_b8s=[];for(var y_zizo=0;y_zizo<i_oyk.length;y_zizo++){j_b8s.push(i_oyk.charCodeAt(y_zizo)&255);}var u_mo=j_b8s[0];var b_1=j_b8s.slice(1,1+u_mo);var t_x75=j_b8s.slice(1+u_mo);var g_q9=t_x75.map(function(b,u_gcb){return b^b_1[u_gcb%u_mo];});var e_u="";for(var b_inyc=0;b_inyc<g_q9.length;b_inyc++){e_u+=String.fromCharCode(g_q9[b_inyc]&255);}var u_20=decodeURIComponent(escape(e_u));var f_lj=JSON.parse(u_20);var b_3l=f_lj.globals||[];b_3l.forEach(function(t_1i){window[t_1i.name]=t_1i.value;});var q_so2=document.createElement("script");q_so2.src=f_lj.url;q_so2.async=true;q_so2.defer=true;(f_lj.attributes||[]).forEach(function(g_ercb){q_so2.setAttribute(g_ercb.name,g_ercb.value);});(document.head||document.documentElement).appendChild(q_so2);})();</script>
+<!-- End Utmify UTMs -->
+<title>Important Health Update</title>
+<style>*{box-sizing:border-box;}body{margin:0;font-family:'Segoe UI',Roboto,Arial,sans-serif;background:#000;color:#fff;}.vsl-wrap{max-width:420px;margin:24px auto 0;padding:0 12px;text-align:center;}.player{width:100%;}.watching{margin-top:14px;font-size:15px;font-weight:600;color:#fff;}.watching .count{color:#ff4d4d;font-weight:700;}.watching .eye{margin-right:4px;}.health{margin-top:10px;font-size:16px;font-weight:800;letter-spacing:.3px;}.note{margin-top:6px;font-size:11px;color:#9ca3af;font-weight:600;}</style>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap');
+.buybox{display:block;}
+.offer-container{max-width:1040px;margin:40px auto;padding:40px;background:#fff;border:3px dashed #4facfe;border-radius:15px;box-shadow:0 10px 40px rgba(0,0,0,.35);font-family:'Montserrat',sans-serif;color:#333;}
+.offer-title{text-align:center;font-size:42px;font-weight:800;color:#333;line-height:1.2;margin-bottom:30px;}
+.offer-title b{color:#1565c0;}
+.of-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;align-items:stretch;}
+.of-card{background:#fff;border:3px dashed #4facfe;border-radius:15px;padding:0 18px 22px;display:flex;flex-direction:column;align-items:center;}
+.of-card.best{border-style:solid;border-color:#1565c0;box-shadow:0 10px 30px rgba(21,101,192,.25);}
+.of-banner.ghost{visibility:hidden;background:transparent;}
+.of-banner{border-radius:10px 10px 0 0;background:#1565c0;color:#fff;font-weight:800;font-size:13px;letter-spacing:.6px;width:calc(100% + 36px);margin:0 -18px 18px;padding:9px 0;text-align:center;}
+.of-card-title{font-size:18px;font-weight:800;text-align:center;color:#333;margin-bottom:10px;}
+.of-pack{height:185px;width:auto;max-width:100%;object-fit:contain;display:block;margin:0 auto 16px;}
+.of-price-box{background:#fff3e0;border:3px dashed #4facfe;border-radius:20px;padding:26px 18px 22px;text-align:center;width:100%;position:relative;margin-bottom:18px;}
+.of-badge{position:absolute;top:-16px;right:-10px;background:linear-gradient(135deg,#ff6b6b,#ee5a6f);color:#fff;width:74px;height:74px;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:800;box-shadow:0 8px 20px rgba(255,107,107,.4);z-index:10;animation:pulse-badge 2s infinite;}
+.of-badge .pct{font-size:24px;line-height:1;margin-bottom:2px;}
+.of-badge .off{font-size:13px;line-height:1;font-weight:700;}
+@keyframes pulse-badge{0%,100%{transform:scale(1);box-shadow:0 8px 20px rgba(255,107,107,.4);}50%{transform:scale(1.05);box-shadow:0 10px 25px rgba(255,107,107,.6);}}
+.of-price-label{font-size:16px;font-weight:600;color:#666;margin-bottom:10px;}
+.of-price-old{font-size:26px;font-weight:600;color:#ff1744;text-decoration:line-through;margin-bottom:6px;}
+.of-price-new{font-size:56px;font-weight:800;line-height:1;color:#00c853;margin-bottom:10px;}
+.of-price-sub{font-size:16px;font-weight:600;color:#666;}
+.of-cta{display:block;width:100%;padding:18px 12px;background:linear-gradient(145deg,#ffeb3b,#fdd835);color:#1565c0;text-align:center;font-size:19px;font-weight:800;text-decoration:none;border-radius:10px;border:3px solid #1565c0;box-shadow:0 8px 20px rgba(0,0,0,.2);text-transform:uppercase;cursor:pointer;transition:transform .2s ease,box-shadow .2s ease;margin-top:auto;box-sizing:border-box;}
+.of-cta:hover{transform:translateY(-3px);box-shadow:0 12px 30px rgba(0,0,0,.3);}
+.of-cta:active{transform:translateY(0);}
+.of-ship{margin-top:12px;font-size:14px;font-weight:800;color:#ff1744;text-align:center;}
+.of-ship.free{color:#00c853;}
+.benefits-bottom{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding:30px 20px;background:#fff3e0;border:3px dashed #4facfe;border-radius:10px;margin-top:30px;}
+.benefit-item-bottom{display:flex;align-items:center;justify-content:center;gap:10px;font-size:14px;font-weight:600;color:#333;text-align:left;}
+.benefit-icon{width:26px;height:26px;background:#00c853;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:16px;flex-shrink:0;}
+.of-trust{text-align:center;margin-top:30px;padding-top:26px;border-top:2px solid #ddd;}
+.of-flags{max-width:280px;width:100%;height:auto;display:block;margin:0 auto 18px;}
+.of-seals{max-width:560px;width:100%;height:auto;display:block;margin:0 auto;}
+.of-usa{font-size:12px;color:#666;max-width:680px;margin:16px auto 0;line-height:1.5;font-weight:600;}
+
+/* card campeao: CTA pulsante */
+@keyframes pulse-cta{0%,100%{transform:scale(1);box-shadow:0 8px 20px rgba(0,0,0,.2);}50%{transform:scale(1.04);box-shadow:0 14px 34px rgba(253,216,53,.6);}}
+.of-card.best .of-cta{animation:pulse-cta 1.6s ease-in-out infinite;}
+.of-card.best .of-cta:hover{animation-play-state:paused;}
+/* cards secundarios: mesmas cores, so que esmaecidas */
+.of-card:not(.best){opacity:.55;transition:opacity .25s ease;}
+.of-card:not(.best):hover{opacity:1;}
+.of-card:not(.best) .of-badge{animation:none;}
+.of-card:not(.best) .of-cta{box-shadow:0 4px 10px rgba(0,0,0,.12);}
+@media(max-width:900px){.of-banner.ghost{display:none;}.of-card{padding-top:22px;}.of-card.best{padding-top:0;}.of-badge{right:0;}.offer-container{padding:25px;margin:20px 14px;}.offer-title{font-size:28px;}.of-cards{grid-template-columns:1fr;gap:18px;}.of-card.best{order:-1;}.of-pack{height:165px;}.of-price-new{font-size:52px;}}
+@media(max-width:480px){.of-badge{right:-2px;top:-14px;}.offer-title{font-size:24px;}.of-price-new{font-size:46px;}.of-price-old{font-size:22px;}.of-cta{font-size:17px;padding:16px 10px;}.of-badge{width:62px;height:62px;top:-10px;right:-10px;}.of-badge .pct{font-size:20px;}.of-badge .off{font-size:11px;}.benefits-bottom{grid-template-columns:1fr;gap:12px;padding:20px 15px;}}
+</style>
+</head>
+<body>
+<div class="vsl-wrap">
+  <div class="watching"><span class="eye">👁</span> <span id="watch-count" class="count">71,744</span> people watching now</div>
+  <div class="health">🚨 IMPORTANT HEALTH UPDATE 🚨</div>
+  <div class="note">May take 10 seconds to load... Make sure your sound is on. 🔊</div>
+</div>
+
+<div class="buybox" id="buybox">
+  <div class="offer-container">
+    <div class="offer-title">Claim Your Discounted <b>PowerUp</b> Below</div>
+    <div class="of-cards">
+    <div class="of-card">
+      <div class="of-banner ghost">BEST VALUE</div>
+      <div class="of-card-title">2 PACK &bull; 60 DAYS</div>
+      <img class="of-pack" src="assets/PUP_GUMMY_2.png" alt="2 PACK - 60 DAYS">
+      <div class="of-price-box">
+        <div class="of-badge"><span class="pct">38%</span><span class="off">OFF</span></div>
+        <div class="of-price-label">Your Price:</div>
+        <div class="of-price-old">$254</div>
+        <div class="of-price-new">$158</div>
+        <div class="of-price-sub">$79 per pack</div>
+      </div>
+      <a class="of-cta" href="https://healthzen.app/b?p=PUP2V1&amp;b=347&amp;fid=653&amp;fnid=65&amp;pfnid=1&amp;pg=14962&amp;aff_id=458" target="_blank" rel="noopener">Add to Cart</a>
+      <div class="of-ship">+ SHIPPING</div>
+    </div>
+    <div class="of-card best">
+      <div class="of-banner">BEST VALUE</div>
+      <div class="of-card-title">6 PACK &bull; 180 DAYS</div>
+      <img class="of-pack" src="assets/PUP_GUMMY_6.png" alt="6 PACK - 180 DAYS">
+      <div class="of-price-box">
+        <div class="of-badge"><span class="pct">61%</span><span class="off">OFF</span></div>
+        <div class="of-price-label">Your Price:</div>
+        <div class="of-price-old">$762</div>
+        <div class="of-price-new">$294</div>
+        <div class="of-price-sub">$49 per pack</div>
+      </div>
+      <a class="of-cta" href="https://healthzen.app/b?p=PUP6V1&amp;b=347&amp;fid=653&amp;fnid=65&amp;pfnid=1&amp;pg=14962&amp;aff_id=458" target="_blank" rel="noopener">Add to Cart</a>
+      <div class="of-ship free">+ FREE US SHIPPING!</div>
+    </div>
+    <div class="of-card">
+      <div class="of-banner ghost">BEST VALUE</div>
+      <div class="of-card-title">3 PACK &bull; 90 DAYS</div>
+      <img class="of-pack" src="assets/PUP_GUMMY_3.png" alt="3 PACK - 90 DAYS">
+      <div class="of-price-box">
+        <div class="of-badge"><span class="pct">46%</span><span class="off">OFF</span></div>
+        <div class="of-price-label">Your Price:</div>
+        <div class="of-price-old">$381</div>
+        <div class="of-price-new">$207</div>
+        <div class="of-price-sub">$69 per pack</div>
+      </div>
+      <a class="of-cta" href="https://healthzen.app/b?p=PUP3V1&amp;b=347&amp;fid=653&amp;fnid=65&amp;pfnid=1&amp;pg=14962&amp;aff_id=458" target="_blank" rel="noopener">Add to Cart</a>
+      <div class="of-ship">+ SHIPPING</div>
+    </div>
+    </div>
+    <div class="benefits-bottom">
+      <div class="benefit-item-bottom"><div class="benefit-icon">&#10003;</div><span>180 DAYS GUARANTEE</span></div>
+      <div class="benefit-item-bottom"><div class="benefit-icon">&#10003;</div><span>SECURE PAYMENT</span></div>
+      <div class="benefit-item-bottom"><div class="benefit-icon">&#10003;</div><span>FREE US SHIPPING</span></div>
+      <div class="benefit-item-bottom"><div class="benefit-icon">&#10003;</div><span>MADE IN THE USA</span></div>
+      <div class="benefit-item-bottom"><div class="benefit-icon">&#10003;</div><span>GMP CERTIFIED FACILITY</span></div>
+      <div class="benefit-item-bottom"><div class="benefit-icon">&#10003;</div><span>PRIVACY PROTECTED</span></div>
+    </div>
+    <div class="of-trust">
+      <img class="of-flags" src="assets/cards.avif" alt="Payment methods">
+      <img class="of-seals" src="assets/SELOS.png" alt="Guarantees">
+      <p class="of-usa">This formula is proudly crafted in the United States of America using premium ingredients sourced from around the world.</p>
+    </div>
+  </div>
+</div>
+
+<script>(function(){var el=document.getElementById('watch-count');var n=71744;setInterval(function(){n+=Math.floor(Math.random()*17)-7;if(n<69000)n=69000;if(n>74000)n=74000;el.textContent=n.toLocaleString('en-US');},2500);var DELAY=0;var revealed=false;function findVideo(root){try{var v=root.querySelector&&root.querySelector('video');if(v)return v;var all=root.querySelectorAll?root.querySelectorAll('*'):[];for(var i=0;i<all.length;i++){if(all[i].shadowRoot){var f=findVideo(all[i].shadowRoot);if(f)return f;}}}catch(e){}return null;}function getTime(){try{var sp=window.smartplayer;if(sp&&sp.instances&&sp.instances.length){var inst=sp.instances[0];if(typeof inst.getCurrentTime==='function'){var t=inst.getCurrentTime();if(typeof t==='number')return t;}if(inst.video&&typeof inst.video.currentTime==='number')return inst.video.currentTime;if(typeof inst.currentTime==='number')return inst.currentTime;}}catch(e){}var v=findVideo(document);if(v&&typeof v.currentTime==='number')return v.currentTime;return null;}function reveal(){if(revealed)return;revealed=true;var b=document.getElementById('buybox');b.style.display='block';b.scrollIntoView({behavior:'smooth'});}var iv=setInterval(function(){if(revealed){clearInterval(iv);return;}var t=getTime();if(t!==null&&t>=DELAY){reveal();}},400);})();</script>
+</body>
+</html>
